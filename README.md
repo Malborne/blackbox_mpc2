@@ -67,7 +67,7 @@ pip install blackbox_mpc
 ### Install from source
 
 ```bash
-git clone https://github.com/ossamaAhmed/blackbox_mpc.git
+git clone https://github.com/Malborne/blackbox_mpc2.git
 cd blackbox_mpc
 pip install -e .
 ```
